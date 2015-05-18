@@ -1526,7 +1526,7 @@
             },
 
             ballCommand: {
-                command: ['8ball', 'ask'],
+                command: ['ask', 'talk'],
                 rank: 'user',
                 type: 'startsWith',
                 functionality: function (chat, cmd) {
